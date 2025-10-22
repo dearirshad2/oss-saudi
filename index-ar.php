@@ -2,6 +2,7 @@
 $data = json_decode(file_get_contents("php://input"), true);
 if($data)
 {
+    require_once("secrets.php");
     header('Content-Type: application/json');
 
     $data = json_decode(file_get_contents("php://input"), true);
@@ -24,7 +25,6 @@ if($data)
         exit;
     }
 
-    $secret = "";
     $recaptcha_response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret={$secret}&response={$recaptchaToken}");
     $recaptcha_data = json_decode($recaptcha_response, true);
 
@@ -34,7 +34,6 @@ if($data)
         exit;
     }
 
-    $apiKey = '';
     $listId = 'd1b9beb4d4';
     $dc = substr($apiKey,strpos($apiKey,'-')+1); // Data center from API key
 
