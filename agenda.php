@@ -25,7 +25,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الترحيبية — جمعية المبرمجين",
         "i18n"  => "title3",
         "time"  => "2:00 PM - 2:05 PM",
-        "image" => "/images/speakers/abdulaziz-aloraij.jpg",
+        "image" => "img/1605473293613.jpeg",
         "content" => "<strong>اسم المتحدث:</strong> م. عبدالعزيز العريج<br><strong>المنصب:</strong> رئيس<br><strong>الجهة:</strong> جمعية المبرمجين (parmg)<br><strong>عنوان الكلمة:</strong> كلمة ترحيبية",
         "highlights" => []
       ],
@@ -40,7 +40,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الحكومية (2) — الهيئة السعودية للبيانات والذكاء الاصطناعي (SDAIA)",
         "i18n"  => "title5",
         "time"  => "2:10 PM - 2:15 PM",
-        "image" => "/images/speakers/abdulrahman-habib.jpg",
+        "image" => "img/1659711277625.jpeg",
         "content" => "<strong>اسم المتحدث:</strong> د. عبدالرحمن حبيب<br><strong>المنصب:</strong> مدير المركز الدولي لأبحاث وأخلاقيات الذكاء الاصطناعي (ICAIRE) تحت إشراف منظمة اليونسكو<br><strong>الجهة:</strong> SDAIA<br><strong>عنوان الكلمة:</strong> نظرة عامة على المركز الدولي لأبحاث وأخلاقيات الذكاء الاصطناعي (ICAIRE)",
         "highlights" => []
       ],
@@ -55,7 +55,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية — اتحاد الصين لتعزيز المصادر المفتوحة (COPU)",
         "i18n"  => "title7",
         "time"  => "2:30 PM - 2:45 PM",
-        "image" => "/images/speakers/jerry-tan.jpg",
+        "image" => "/img/a.png",
         "content" => "<strong>اسم المتحدث:</strong> جيري تان<br><strong>المنصب:</strong> نائب الأمين العام<br><strong>الجهة:</strong> اتحاد الصين لتعزيز المصادر المفتوحة (COPU)<br><strong>عنوان الكلمة:</strong> المصادر المفتوحة كجسر: البناء المشترك للمستقبل الرقمي بين الصين والمملكة العربية السعودية",
         "highlights" => []
       ],
@@ -63,7 +63,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية لممثل الشركة — هواوي (openEuler)",
         "i18n"  => "title8",
         "time"  => "2:45 PM - 3:00 PM",
-        "image" => "/images/speakers/hu-xinwei.jpg",
+        "image" => "/img/b.png",
         "content" => "<strong>اسم المتحدث:</strong> هو شينوي<br><strong>المنصب:</strong> رئيس اللجنة الفنية لنظام التشغيل openEuler وكبير مهندسي الأنظمة في هواوي<br><strong>الجهة:</strong> هواوي<br><strong>عنوان الكلمة:</strong> openEuler",
         "highlights" => []
       ],
@@ -82,7 +82,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية — RUYA OS",
         "i18n"  => "title10",
         "time"  => "3:30 PM - 3:45 PM",
-        "image" => "/images/speakers/mossab.jpg",
+        "image" => "/img/c.png",
         "content" => "<strong>اسم المتحدث:</strong> مصعب<br><strong>المنصب:</strong> الرئيس التنفيذي<br><strong>الجهة:</strong> RUYA OS<br><strong>عنوان الكلمة:</strong> مقدمة عن نظام RUYA OS",
         "highlights" => []
       ],
@@ -90,7 +90,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية لممثل الشركة — ZTE",
         "i18n"  => "title11",
         "time"  => "3:45 PM - 4:00 PM",
-        "image" => "/images/speakers/meng-wei.jpg",
+        "image" => "/img/d.png",
         "content" => "<strong>اسم المتحدث:</strong> منغ وي<br><strong>المنصب:</strong> رئيس فريق المصادر المفتوحة والأمين العام لعدد من التحالفات التقنية الدولية<br><strong>الجهة:</strong> ZTE<br><strong>عنوان الكلمة:</strong> بناء نظام بيئي جديد للذكاء الاصطناعي يتميز بالانفتاح والشمولية وسهولة الوصول",
         "highlights" => []
       ],
@@ -98,7 +98,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية لممثل الشركة — YonYou",
         "i18n"  => "title12",
         "time"  => "4:00 PM - 4:15 PM",
-        "image" => "/images/speakers/robert-guan.jpg",
+        "image" => "/img/e.png",
         "content" => "<strong>اسم المتحدث:</strong> روبرت غوان<br><strong>المنصب:</strong> المدير العام للشرق الأوسط<br><strong>الجهة:</strong> YonYou<br><strong>عنوان الكلمة:</strong> تمكين المؤسسات السعودية بالذكاء الاصطناعي لتحقيق التحول الرقمي",
         "highlights" => []
       ],
@@ -113,7 +113,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية لممثل الشركة — AitoCoder",
         "i18n"  => "title14",
         "time"  => "5:00 PM - 5:15 PM",
-        "image" => "/images/speakers/maxwell-zhou.jpg",
+        "image" => "/img/f.png",
         "content" => "<strong>اسم المتحدث:</strong> ماكسويل زو<br><strong>المنصب:</strong> مدير المنتجات<br><strong>الجهة:</strong> AitoCoder<br><strong>عنوان الكلمة:</strong> تمكين الجميع: البرمجة بالذكاء الاصطناعي مع AitoCoder",
         "highlights" => []
       ],
@@ -121,7 +121,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية لممثل الشركة — ORION",
         "i18n"  => "title15",
         "time"  => "5:15 PM - 5:30 PM",
-        "image" => "/images/speakers/shao-jianqiu.jpg",
+        "image" => "/img/g.png",
         "content" => "<strong>اسم المتحدث:</strong> شاو جيانكيو<br><strong>المنصب:</strong> الرئيس التنفيذي ومؤسس مجتمع Orion<br><strong>الجهة:</strong> Orion AI Tech<br><strong>عنوان الكلمة:</strong> ربط الذكاء وتنظيم المستقبل — النموذج الجديد لذكاء الأعمال المؤسسي",
         "highlights" => []
       ],
@@ -143,7 +143,6 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية لممثل الشركة — Huawei",
         "i18n"  => "title18",
         "time"  => "6:30 PM - 6:45 PM",
-        "image" => "/images/speakers/huawei.jpg",
         "content" => "<strong>اسم المتحدث:</strong> متحدث هواوي<br><strong>المنصب:</strong> ممثل الشركة<br><strong>الجهة:</strong> Huawei<br><strong>عنوان الكلمة:</strong> جلسة هواوي المسائية",
         "highlights" => []
       ],
@@ -151,7 +150,7 @@ if(basename($_SERVER['PHP_SELF']) == "index-ar.php")
         "title" => "الكلمة الرئيسية لممثل الشركة — KPro",
         "i18n"  => "title19",
         "time"  => "6:45 PM - 7:00 PM",
-        "image" => "/images/speakers/george-chen.jpg",
+        "image" => "/img/h.png",
         "content" => "<strong>اسم المتحدث:</strong> جورج تشين<br><strong>المنصب:</strong> Principal Evangelist<br><strong>الجهة:</strong> KPro<br><strong>عنوان الكلمة:</strong> الذكاء الاصطناعي الأصلي بالمعرفة مفتوحة المصدر",
         "highlights" => []
       ],
@@ -221,7 +220,7 @@ else
           "title" => "Welcome Note: parmg",
           "i18n"  => "title3",
           "time"  => "2:00 PM - 2:05 PM",
-          "image" => "/images/speakers/abdulaziz-aloraij.jpg",
+          "image" => "img/1605473293613.jpeg",
           "content" => "<strong>Speaker Name:</strong> Eng. AbdulAziz AlOraij<br><strong>Portfolio/Bio:</strong> Chairman<br><strong>Organization:</strong> Programmers Association (parmg)<br><strong>Speech Title:</strong> Welcome Note",
           "highlights" => []
         ],
@@ -236,7 +235,7 @@ else
           "title" => "Gov. Keynote #2 — SDAIA",
           "i18n"  => "title5",
           "time"  => "2:10 PM - 2:15 PM",
-          "image" => "/images/speakers/abdulrahman-habib.jpg",
+          "image" => "img/1659711277625.jpeg",
           "content" => "<strong>Speaker Name:</strong> Dr. Abdulrahman Habib<br><strong>Portfolio/Bio:</strong> Director, International Center for AI Research and Ethics (ICAIRE)<br><strong>Organization:</strong> SDAIA<br><strong>Speech Title:</strong> Overview of ICAIRE",
           "highlights" => []
         ],
@@ -251,7 +250,7 @@ else
           "title" => "Keynote — COPU (Jerry Tan)",
           "i18n"  => "title7",
           "time"  => "2:30 PM - 2:45 PM",
-          "image" => "/images/speakers/jerry-tan.jpg",
+          "image" => "/img/a.png",
           "content" => "<strong>Speaker Name:</strong> Jerry Tan<br><strong>Portfolio/Bio:</strong> Deputy Secretary-General<br><strong>Organization:</strong> China Open Source Promotion Union (COPU)<br><strong>Speech Title:</strong> Open Source as a Bridge: Co-Building the Digital Future for China and Saudi Arabia",
           "highlights" => []
         ],
@@ -259,7 +258,7 @@ else
           "title" => "Vendor Keynote — Huawei (openEuler)",
           "i18n"  => "title8",
           "time"  => "2:45 PM - 3:00 PM",
-          "image" => "/images/speakers/hu-xinwei.jpg",
+          "image" => "/img/b.png",
           "content" => "<strong>Speaker Name:</strong> Hu Xinwei<br><strong>Portfolio/Bio:</strong> Chief Operating System Architect<br><strong>Organization:</strong> Huawei<br><strong>Speech Title:</strong> openEuler",
           "highlights" => []
         ],
@@ -277,7 +276,7 @@ else
           "title" => "Keynote — RUYA OS",
           "i18n"  => "title10",
           "time"  => "3:30 PM - 3:45 PM",
-          "image" => "/images/speakers/mossab.jpg",
+          "image" => "/img/c.png",
           "content" => "<strong>Speaker Name:</strong> Mossab<br><strong>Portfolio/Bio:</strong> CEO<br><strong>Organization:</strong> RUYA OS<br><strong>Speech Title:</strong> RUYA OS Introduction",
           "highlights" => []
         ],
@@ -285,7 +284,7 @@ else
           "title" => "Vendor Keynote — ZTE",
           "i18n"  => "title11",
           "time"  => "3:45 PM - 4:00 PM",
-          "image" => "/images/speakers/meng-wei.jpg",
+          "image" => "/img/d.png",
           "content" => "<strong>Speaker Name:</strong> Meng Wei<br><strong>Portfolio/Bio:</strong> Head of Open Source Team at ZTE, Secretary-general of the Cooperative Open Intelligent Computing Industry Alliance, Chairperson of LF AI & Data (2023-2024), Vice chairperson of ITU FG-AINN</strong> ZTE<br><strong>Speech Title:</strong> Build a New AI Ecosystem",
           "highlights" => []
         ],
@@ -293,7 +292,7 @@ else
           "title" => "Vendor Keynote — YonYou",
           "i18n"  => "title12",
           "time"  => "4:00 PM - 4:15 PM",
-          "image" => "/images/speakers/robert-guan.jpg",
+          "image" => "/img/e.png",
           "content" => "<strong>Speaker Name:</strong> Robert Guan<br><strong>Portfolio/Bio:</strong> General Manager, Middle East<br><strong>Organization:</strong> YonYou<br><strong>Speech Title:</strong> Enterprise AI empowers Saudi organizations to digital transformation",
           "highlights" => []
         ],
@@ -308,7 +307,7 @@ else
           "title" => "Vendor Keynote — AitoCoder",
           "i18n"  => "title14",
           "time"  => "5:00 PM - 5:15 PM",
-          "image" => "/images/speakers/maxwell-zhou.jpg",
+          "image" => "/img/f.png",
           "content" => "<strong>Speaker Name:</strong> Maxwell Zhou<br><strong>Portfolio/Bio:</strong> Product Manager<br><strong>Organization:</strong> AitoCoder<br><strong>Speech Title:</strong> Empowering the Everyman: AI Coding with AitoCoder",
           "highlights" => []
         ],
@@ -316,7 +315,7 @@ else
           "title" => "Vendor Keynote — ORION",
           "i18n"  => "title15",
           "time"  => "5:15 PM - 5:30 PM",
-          "image" => "/images/speakers/shao-jianqiu.jpg",
+          "image" => "/img/g.png",
           "content" => "<strong>Speaker Name:</strong> Shao JianQiu<br><strong>Portfolio/Bio:</strong> CEO of ORION AI Tech and the founder of the ORION Community.<br><strong>Organization:</strong> ORION AI Tech<br><strong>Speech Title:</strong> Connecting Intelligence, Orchestrating the Future",
           "highlights" => []
         ],
@@ -338,7 +337,6 @@ else
           "title" => "Vendor Keynote — Huawei",
           "i18n"  => "title18",
           "time"  => "6:30 PM - 6:45 PM",
-          "image" => "/images/speakers/huawei.jpg",
           "content" => "<strong>Speaker Name:</strong> Huawei Speaker<br><strong>Portfolio/Bio:</strong> Vendor Keynote<br><strong>Organization:</strong> Huawei<br><strong>Speech Title:</strong> Huawei Evening Session",
           "highlights" => []
         ],
@@ -346,7 +344,7 @@ else
           "title" => "Vendor Keynote — KPro",
           "i18n"  => "title19",
           "time"  => "6:45 PM - 7:00 PM",
-          "image" => "/images/speakers/george-chen.jpg",
+          "image" => "/img/h.png",
           "content" => "<strong>Speaker Name:</strong> George Chen<br><strong>Portfolio/Bio:</strong> Principal Evangelist<br><strong>Organization:</strong> KPro<br><strong>Speech Title:</strong> AI Native with Knowledge",
           "highlights" => []
         ],
@@ -354,7 +352,6 @@ else
           "title" => "Vendor Keynote — China Mobile",
           "i18n"  => "title20",
           "time"  => "7:00 PM - 7:15 PM",
-          "image" => "/images/speakers/china-mobile.jpg",
           "content" => "<strong>Speaker Name:</strong> China Mobile Speaker<br><strong>Portfolio/Bio:</strong> Vendor Keynote<br><strong>Organization:</strong> China Mobile<br><strong>Speech Title:</strong> China Mobile Keynote",
           "highlights" => []
         ],
@@ -412,7 +409,17 @@ else
             </div>
 
             <div class="schedule-content" style="display: none;">
-              <p style='text-align:start;padding:0px 50px;'><?= $item['content'] ?></p>
+              <?php 
+              if(isset($item['image']))
+              {
+                 if($item['image'] != '')
+                    echo "<img src='".$item['image']."' class='speaker'>";
+              }
+              ?>
+              <p style='text-align:start;padding:0px 50px;'>
+                
+                <?= $item['content'] ?>
+              </p>
 
               <?php if (!empty($item['highlights'])): ?>
                 <strong data-i18n="highli">Highlights</strong>

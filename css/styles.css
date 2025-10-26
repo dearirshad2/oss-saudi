@@ -2332,3 +2332,64 @@ body{
 .tab_block_main .tab_options>li a.active,
 .tab_block_main .tab_options>li a:hover{color:#3BA8C5;background-color:#fff;border-color:#3BA8C5 #3BA8C5 #fff;}
 /* TABS */
+
+
+
+/* form css */
+#registerDialogContainer {
+    display:none;
+    position:fixed;
+    top:0; left:0;
+    width:100%; height:100%;
+    background:rgba(0,0,0,0.65);
+    z-index:9999;
+}
+
+#registerDialog {
+    background:#fff;
+    max-width:750px;
+    width:90%;
+    margin:50px auto;
+    padding:20px;
+    border-radius:8px;
+    max-height:90vh;
+    overflow-y:auto;
+}
+
+.two-col .row {
+    display:flex;
+    gap:20px;
+    margin-bottom:15px;
+}
+
+.two-col .row .field {
+    flex:1;
+    display:flex;
+    flex-direction:column;
+}
+
+.two-col .full {
+    display:block;
+}
+
+.site-button {
+    width:100%;
+    padding:12px;
+    font-size:16px;
+    cursor:pointer;
+}
+
+/* Mobile → stack fields */
+@media(max-width:600px){
+    .two-col .row {
+        flex-direction:column;
+    }
+}
+
+
+.speaker{
+    width:150px;
+    border-radius:2px !important;
+    border:1px solid #ccc !important;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18) !important;
+}
