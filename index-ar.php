@@ -8,7 +8,7 @@
     <meta name="description" content="مؤتمر تبادل المصادر المفتوحة السعودي الصيني 2025">
     <title>مؤتمر تبادل المصادر المفتوحة السعودي الصيني 2025</title>
     <meta name="description" content="مؤتمر تبادل المصادر المفتوحة السعودي الصيني 2025">
-    <link rel="stylesheet" href="css/styles.css?v=1.0.0"/>
+    <link rel="stylesheet" href="css/design.css?v=1.0.0"/>
     <link rel="icon" type="image/png" href="img/logo.png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
@@ -429,88 +429,7 @@ data-elementor-device-mode="desktop">
             <div class="elementor-element elementor-element-947ae35 e-con-full e-flex e-con e-child" data-id="947ae35" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-element elementor-element-9192ae9 elementor-widget elementor-widget-etn-speaker" data-id="9192ae9" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="etn-speaker.default">
                     <div class="elementor-widget-container">
-                        <div class="etn-row etn-speaker-wrapper">
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="محمد العمودي">
-                                                    <img decoding="async" src="img/1553153578787.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="javascript:void(0)"> محمد العمودي</a> </h3>
-                                            <p>
-                                                نائب الرئيس Parmg                        </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="جيري تان">
-                                                    <img decoding="async" src="img/20179982.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="linkedin.com/in/tanzhongyi/en"> جيري تان</a> </h3>
-                                            <p>نائب الأمين العام التنفيذي لـ COUP                      </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="المهندس عبدالعزيز العريج">
-                                                    <img decoding="async" src="img/1605473293613.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="https://www.linkedin.com/in/oraij/"> المهندس عبدالعزيز العريج</a> </h3>
-                                            <p>
-                                                رئيس جمعية المبرمجين                        </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="ديان زو">
-                                                    <img decoding="async" src="img/1543366973208.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="javascript:void(0)"> ديان زو</a> </h3>
-                                            <p>
-                                                OpenTEKr                        </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="الدكتور عبد الرحمن حبيب">
-                                                    <img decoding="async" src="img/1659711277625.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="javascript:void(0)"> الدكتور عبد الرحمن حبيب</a> </h3>
-                                            <p>مدير المركز الدولي لبحوث الذكاء الاصطناعي والأخلاقيات (ICAIRE) تحت رعاية اليونسكو.                      </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                        </div>
+                        <?php require_once("speakers.php");?>
 
                     </div>
                 </div>

@@ -4,7 +4,7 @@
 
             <div class="row">
                 <div class="field">
-                    <label>Prefix (Optional)</label>
+                    <label>Prefix</label>
                     <select id="mce-PREFIX">
                         <option value="">Select Prefix</option>
                         <option value="Dr.">Dr.</option>
@@ -14,19 +14,19 @@
                 </div>
 
                 <div class="field">
-                    <label>First Name</label>
+                    <label>First Name *</label>
                     <input type="text" id="mce-FNAME" required>
                 </div>
             </div>
 
             <div class="row">
                 <div class="field">
-                    <label>Last Name</label>
+                    <label>Last Name *</label>
                     <input type="text" id="mce-LNAME" required>
                 </div>
 
                 <div class="field">
-                    <label>Gender</label>
+                    <label>Gender *</label>
                     <select id="mce-GENDER" required>
                         <option value="">Select gender</option>
                         <option value="Male">Male</option>
@@ -37,12 +37,12 @@
 
             <div class="row">
                 <div class="field">
-                    <label>Organization</label>
+                    <label>Organization *</label>
                     <input type="text" id="mce-ORG" required>
                 </div>
 
                 <div class="field">
-                    <label>Organization Type</label>
+                    <label>Organization Type *</label>
                     <select id="mce-ORGTYPE" required>
                         <option value="">Select type</option>
                         <option value="Government">Government</option>
@@ -56,24 +56,24 @@
 
             <div class="row">
                 <div class="field">
-                    <label>Job Title</label>
+                    <label>Job Title *</label>
                     <input type="text" id="mce-JOB" required>
                 </div>
 
                 <div class="field">
-                    <label>Email</label>
+                    <label>Email *</label>
                     <input type="email" id="mce-EMAIL" required>
                 </div>
             </div>
 
             <div class="row">
                 <div class="field">
-                    <label>Mobile Number</label>
-                    <input type="tel" id="mce-PHONE" maxlength="15" required>
+                    <label>Mobile Number *</label>
+                    <input type="tel" id="mce-PHONE" class='number'  maxlength="15" required>
                 </div>
 
                 <div class="field">
-                    <label>Parmg Member</label>
+                    <label>Parmg Member *</label>
                     <select id="mce-PARMG" required>
                         <option value="">Select option</option>
                         <option value="Yes">Yes</option>

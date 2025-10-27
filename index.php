@@ -8,7 +8,7 @@
     <meta name="description" content="Saudi-China Opensource Exchange">
     <title>Saudi-China Opensource Exchange</title>
     <meta name="description" content="Saudi-China Opensource Exchange 2025 - ">
-    <link rel="stylesheet" href="css/styles.css?v=1.0.0"/>
+    <link rel="stylesheet" href="css/design.css?v=1.0.0"/>
     <link rel="icon" type="image/png" href="img/logo.png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
@@ -425,92 +425,7 @@ data-elementor-device-mode="desktop">
             <div class="elementor-element elementor-element-947ae35 e-con-full e-flex e-con e-child" data-id="947ae35" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-element elementor-element-9192ae9 elementor-widget elementor-widget-etn-speaker" data-id="9192ae9" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="etn-speaker.default">
                     <div class="elementor-widget-container">
-                        <div class="etn-row etn-speaker-wrapper">
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="Mohammed Al-Amoudi">
-                                                    <img decoding="async" src="img/1553153578787.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="javascript:void(0)"> Mohammed Al-Amoudi</a> </h3>
-                                            <p>
-                                                Vice Chairman Parmg                        </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="Jerry Tan">
-                                                    <img decoding="async" src="img/20179982.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="linkedin.com/in/tanzhongyi/en"> Jerry Tan</a> </h3>
-                                            <p>
-                                                Executive Vice Secretary-General of COPU                        </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="Eng. AbdulAziz AlOraij">
-                                                    <img decoding="async" src="img/1605473293613.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="https://www.linkedin.com/in/oraij/"> Eng. AbdulAziz AlOraij</a> </h3>
-                                            <p>
-                                                Chairman of Programmers Association                        </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="Dean Zhou">
-                                                    <img decoding="async" src="img/1543366973208.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="javascript:void(0)"> Dean Zhou</a> </h3>
-                                            <p>
-                                                OpenTEKr                        </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="etn-col-lg-4 etn-col-md-6">
-                                    <div class="etn-speaker-item">
-                                        <div class="etn-speaker-thumb">
-                                                <a href="javascript:void(0)" class="etn-img-link" aria-label="Dr. Abdulrahman Habib">
-                                                    <img decoding="async" src="img/1659711277625.jpeg" alt="">
-                                                </a>
-                                            <div class="etn-speakers-social">
-                                                                                                        </div>
-                                        </div>
-                                        <div class="etn-speaker-content">
-                                            <h3 class="etn-title etn-speaker-title"><a href="javascript:void(0)"> Dr. Abdulrahman Habib</a> </h3>
-                                            <p>
-                                                Director, International Center for AI Research and Ethics (ICAIRE) under the auspices of  UNESCO.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                        </div>
-
+                        <?php require_once("speakers.php");?>
                     </div>
                 </div>
             </div>
