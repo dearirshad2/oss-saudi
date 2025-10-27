@@ -1974,7 +1974,6 @@ h3{font-weight:5000;color:#222;font-size:20px;margin-bottom:30px;}
 .item-headr{cursor:pointer;user-select:none;padding-bottom:10px;border-bottom:1px dashed rgba(255,255,255,0.3);}
 .item-headr h4{font-weight:600;font-size:1.1rem;color:#333;}
 .schedule-time{font-weight:500;color:#333;font-size:0.95rem;}
-.toggle-icon{transition:transform 0.3s ease;color:#ccc;}
 .schedule-content{color:#333;}
 .schedule-content{margin-top:15px;display:none;animation:fadeIn 0.4s ease forwards;}
 .schedule-content p{margin-bottom:8px;font-size:0.95rem;color:#333;}
@@ -2392,4 +2391,12 @@ body{
     border-radius:2px !important;
     border:1px solid #ccc !important;
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18) !important;
+}
+
+.toggle-icon {
+  transition: transform 0.3s ease;
+}
+
+.toggle-icon.open {
+  transform: rotate(180deg);
 }

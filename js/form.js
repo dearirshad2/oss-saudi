@@ -71,7 +71,7 @@ $(document).ready(function(){
             $("#submit-button").css({'background':'#3BA8C5'});
             if(response.success){
               alert(response.message);
-              //$("#registerForm")[0].reset();
+              $("#registerForm")[0].reset();
             } else {
               alert(response.message);
             }

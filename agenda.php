@@ -443,29 +443,35 @@ else
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const headers = document.querySelectorAll(".item-headr");
+  const headers = document.querySelectorAll(".item-headr");
 
-    headers.forEach(header => {
-      header.addEventListener("click", function () {
-        const content = this.nextElementSibling;
+  headers.forEach(header => {
+    header.addEventListener("click", function () {
+      const content = this.nextElementSibling;
+      const icon = this.querySelector(".toggle-icon");
 
-        // غلق جميع العناصر الأخرى (اختياري)
-        document.querySelectorAll(".schedule-content").forEach(el => {
-          if (el !== content) el.style.display = "none";
-        });
-
-        // فتح / إغلاق العنصر الحالي
-        if (content.style.display === "block") {
-          content.style.display = "none";
-        } else {
-          content.style.display = "block";
-        }
+      // Close all others
+      document.querySelectorAll(".schedule-content").forEach(el => {
+        if (el !== content) el.style.display = "none";
       });
-    });
+      document.querySelectorAll(".toggle-icon").forEach(ic => {
+        if (ic !== icon) ic.classList.remove("open");
+      });
 
-    // إغلاق جميع الشرحات في البداية
-    document.querySelectorAll(".schedule-content").forEach(el => {
-      el.style.display = "none";
+      // Toggle current
+      if (content.style.display === "block") {
+        content.style.display = "none";
+        icon.classList.remove("open");
+      } else {
+        content.style.display = "block";
+        icon.classList.add("open");
+      }
     });
   });
+
+  // Close all on load
+  document.querySelectorAll(".schedule-content").forEach(el => {
+    el.style.display = "none";
+  });
+});
 </script>
