@@ -5,10 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-    <meta name="description" content="مؤتمر تبادل المصادر المفتوحة السعودي الصيني 2025">
-    <title>مؤتمر تبادل المصادر المفتوحة السعودي الصيني 2025</title>
-    <meta name="description" content="مؤتمر تبادل المصادر المفتوحة السعودي الصيني 2025">
-    <link rel="stylesheet" href="css/design.css?v=1.0.0"/>
+    <meta name="description" content="ملتقى التبادل السعودي الصيني للمصادر المفتوحة 2025">
+    <title>ملتقى التبادل السعودي الصيني للمصادر المفتوحة 2025</title>
+    <meta name="description" content="ملتقى التبادل السعودي الصيني للمصادر المفتوحة 2025">
+    <link rel="stylesheet" href="css/design.css?v=1.0.1"/>
     <link rel="icon" type="image/png" href="img/logo.png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
@@ -123,7 +123,7 @@ data-elementor-device-mode="desktop">
             <div class="elementor-element elementor-element-fbac98f e-con-full e-flex e-con e-child" data-id="fbac98f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-element elementor-element-b3dc2fe animated-fast elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="b3dc2fe" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}"
                 data-widget_type="heading.default">
-                   <h2 class="elementor-heading-title elementor-size-default">مؤتمر تبادل المصادر المفتوحة السعودي الصيني </h2> </div>
+                   <h2 class="elementor-heading-title elementor-size-default">ملتقى التبادل السعودي الصيني للمصادر المفتوحة </h2> </div>
                 <div class="elementor-element elementor-element-797bcb2 e-transform elementor-widget elementor-widget-loop-carousel e-widget-swiper" data-id="797bcb2" data-element_type="widget" data-settings="{&quot;template_id&quot;:&quot;94816&quot;,&quot;slides_to_show&quot;:&quot;6&quot;,&quot;offset_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:86,&quot;sizes&quot;:[]},&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;offset_sides&quot;:&quot;both&quot;,&quot;_transform_flipX_effect&quot;:&quot;transform&quot;,&quot;_skin&quot;:&quot;post&quot;,&quot;slides_to_show_widescreen&quot;:&quot;3&quot;,&quot;slides_to_show_laptop&quot;:&quot;3&quot;,&quot;slides_to_show_tablet_extra&quot;:&quot;3&quot;,&quot;slides_to_show_tablet&quot;:&quot;2&quot;,&quot;slides_to_show_mobile_extra&quot;:&quot;2&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;edit_handle_selector&quot;:&quot;.elementor-loop-container&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_width_widescreen&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;offset_width_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;offset_width_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;offset_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;offset_width_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;offset_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_widescreen&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_laptop&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile_extra&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;ekit_we_effect_on&quot;:&quot;none&quot;}"
                 data-widget_type="loop-carousel.post">
                     
@@ -151,7 +151,7 @@ data-elementor-device-mode="desktop">
                                         <div class="elementor-widget-container">
                                             <span class="top-title">حدثنا القادم في</span>
                                             <br>
-                                            <h2 class="elementor-heading-title elementor-size-default">مؤتمر تبادل المصادر المفتوحة السعودي الصيني 2025</h2>
+                                            <h2 class="elementor-heading-title elementor-size-default">ملتقى التبادل السعودي الصيني للمصادر المفتوحة 2025</h2>
                                             <span class="tag-line">بمشاركة أكثر من 100 شركة تقنية رائدة من السعودية والصين</span> 
                                         </div>
                                     </div>
@@ -288,9 +288,7 @@ data-elementor-device-mode="desktop">
                                                         <div class="elementor-widget-container">
 
                                                             <div class="title-section-area">
-                                                                <h2 class="section-title">
-            <span class="sub-title"></span>
-			مؤتمر تبادل المصادر المفتوحة السعودي الصيني
+                                                                <h2 class="section-title">ملتقى التبادل السعودي الصيني للمصادر المفتوحة
         </h2>
                                                             </div>
                                                             <!-- Section title -->

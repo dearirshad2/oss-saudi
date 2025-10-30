@@ -8,7 +8,7 @@
     <meta name="description" content="Saudi-China Opensource Exchange">
     <title>Saudi-China Opensource Exchange</title>
     <meta name="description" content="Saudi-China Opensource Exchange 2025 - ">
-    <link rel="stylesheet" href="css/design.css?v=1.0.0"/>
+    <link rel="stylesheet" href="css/design.css?v=1.0.1"/>
     <link rel="icon" type="image/png" href="img/logo.png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
